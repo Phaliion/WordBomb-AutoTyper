@@ -9,10 +9,8 @@ Instructions:
 
 REQUIREMENTS:
 
+ - all files needed to have this work
+
 ⚠️ WordBomb IS IN **FULL SCREEN** ⚠️
 
 ⚠️ AFTER GAME ENDS PRESS "Reset List" TO MAKE SURE IT DOESN'T RUN OUT OF WORDS ⚠️
-
-DISCLAIMER:
-
-⚠️ IF YOU OR ANYONE USING THIS PROGRAM WERE TO GET BANNED FROM WordBomb (unlikely but still..) I'M NOT RESPONSIBLE ⚠️
